@@ -1,0 +1,28 @@
+@import 'https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Sans+Mono|Droid+Serif';
+.body{
+    background-color: #56C26E;
+}
+.footer {
+    background-color: #5FD956;
+}
+.header {
+    background-color: #86CF52;
+}
+.jumb{
+    background-color: #56D998;
+}
+.butt{
+    background-color: #56D998;
+}
+.h1{
+    font: bold 4.236rem  'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+.h2{
+    font: bold 4.236rem  'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+.h3{
+    font: bold 4.236rem  'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+.p{
+    font: bold 1.618rem 'Montserrat', helvetica, arial, sans-serif;
+}
